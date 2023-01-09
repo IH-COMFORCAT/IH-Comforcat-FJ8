@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -66,8 +68,6 @@ public class Main {
         System.out.println(whichDay);
 
 
-
-
         Integer wrapper = 5;
         int number = 5;
         char char2 = 'a';
@@ -84,6 +84,45 @@ public class Main {
         String result2 = productFormatter(productName, date);
         System.out.println(result2);
 
+        String[] names = {"Jaume", "Marina", "Néstor", "Jordi", "Dina"};
+
+
+        for (int i = names.length - 1; i >= 0; i--) {
+            System.out.println(names[i]);
+        }
+
+        int counter = 10;
+
+        while (counter < 10) {
+            System.out.println("Hola Clase");
+            counter++;
+        }
+
+        counter = 0;
+
+        do {
+            System.out.println(counter + ". Hola clase");
+            counter++;
+
+        } while (counter < 10);
+
+        for (String n : names) {
+            System.out.println(n);
+        }
+
+        Arrays.stream(names).forEach((n) -> {
+            System.out.println(n);
+        });
+
+        int[] x = {1, 2, 34, 3, 5, 3};
+        int[] y = new int[5];
+
+
+    }
+
+    private static int[] multiply(int[] nums) {
+        int[] result = new int[nums.length];
+        return null;
     }
 
     private static String productFormatter(String productName, String date) {
@@ -98,7 +137,7 @@ public class Main {
     static String whichDayOfTheWeek(int dayOfTheWeek) {
         switch (dayOfTheWeek) {
             case 1:
-                 return "Monday";
+                return "Monday";
             case 2:
                 return "Tuesday";
             case 3:
