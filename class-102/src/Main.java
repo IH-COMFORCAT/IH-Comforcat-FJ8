@@ -66,11 +66,6 @@ public class Main {
         System.out.println(whichDay);
 
 
-        String productName = "    Lavavajillas premium 01    ";
-        String date = "18/01/2022";
-
-        String result2 = productFormatter(productName, date);
-
 
 
         Integer wrapper = 5;
@@ -82,10 +77,21 @@ public class Main {
 
 
         System.out.println(name.contains("fdfd"));
+
+        String productName = "    Lavavajillas premium 01    ";
+        String date = "18/01/2022";
+
+        String result2 = productFormatter(productName, date);
+        System.out.println(result2);
+
     }
 
     private static String productFormatter(String productName, String date) {
-        return "LAVAVAJILLAS_PREMIUM_01-18/01/2022";
+        productName = productName.trim().toUpperCase();
+        date = date.trim();
+        String result = productName.concat("-").concat(date).replace(" ", "_");
+
+        return result;
     }
 
 
