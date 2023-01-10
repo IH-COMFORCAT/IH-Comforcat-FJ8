@@ -115,14 +115,50 @@ public class Main {
         });
 
         int[] x = {1, 2, 34, 3, 5, 3};
-        int[] y = new int[5];
 
+        int[] result3 = multiply(x);
+
+        for (int i : result3) {
+            System.out.println(i);
+        }
+
+        System.out.println(Arrays.toString(invert(x)));
+        System.out.println(Arrays.toString(invert2(x)));
 
     }
 
     private static int[] multiply(int[] nums) {
+
         int[] result = new int[nums.length];
-        return null;
+
+        for (int i = 0; i < nums.length - 1; i++) {
+                result[i] = nums[i] * nums[i + 1];
+            }
+
+        result[nums.length - 1] = nums[nums.length - 1] * nums[0];
+
+        return result;
+    }
+
+    private static int[] invert(int[] nums) {
+        int[] result = new int[nums.length];
+        int counter = 0;
+
+        for(int i = nums.length -1; i >= 0; i--) {
+            result[counter++] = nums[i];
+        }
+
+        return result;
+    }
+
+    private static int[] invert2(int[] nums) {
+        int[] result = new int[nums.length];
+
+        for(int i = 0; i < nums.length; i++) {
+            result[i] = nums[nums.length - 1 - i];
+        }
+
+        return result;
     }
 
     private static String productFormatter(String productName, String date) {
