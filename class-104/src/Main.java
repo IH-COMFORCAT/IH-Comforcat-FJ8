@@ -69,24 +69,7 @@ public class Main {
 
         fileReader.close();
 
-        File oscars = new File("oscar_age_female.csv");
-
-        Scanner oscarsReader = new Scanner(oscars);
-
-        FileWriter oscarsWritter = new FileWriter("result.txt");
-
-        while (oscarsReader.hasNextLine()) {
-            String[] line = oscarsReader.nextLine().split(", ");
-            oscarsWritter.write("Name: " + line[3]);
-            oscarsWritter.write("Year: " + line[1]);
-            oscarsWritter.write("Age: " + line[2]);
-
-        }
-
-
-
-
-
+        
 
     }
 
@@ -95,11 +78,11 @@ public class Main {
 
         int counter = 0;
         for (String word : words) {
-           // char c = word.charAt(0);
+            // char c = word.charAt(0);
             if (word.startsWith("a") || word.startsWith("e") || word.startsWith("i") || word.startsWith("o") || word.startsWith("u")) {
                 counter++;
             } else {
-                System.err.println("La palabra " + word+ " no empieza por vocal");
+                System.err.println("La palabra " + word + " no empieza por vocal");
             }
         }
 
