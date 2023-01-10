@@ -67,9 +67,31 @@ public class Main {
             System.out.println(fileReader.nextLine());
         }
 
+
         fileReader.close();
 
-        
+        File oscarsFile = new File("src/oscar_age_female.csv");
+        Scanner oscarsReader = new Scanner(oscarsFile);
+        FileWriter writer1 = new FileWriter("result.txt", false);
+
+       String firstLine= oscarsReader.nextLine();
+
+        System.out.println("Primera linea: " + firstLine + " no nos interesa");
+
+        while (oscarsReader.hasNextLine()) {
+            String[] line = oscarsReader.nextLine().split(", ");
+
+            writer1.write("Año: " + line[1] + "\n");
+            writer1.write("Name: " + line[3] + "\n");
+            writer1.write("Age: " + line[2] + "\n");
+            writer1.write("Movie: " + line[4] + "\n");
+            writer1.write("========" + "\n");
+
+
+        }
+
+        writer1.close();
+
 
     }
 

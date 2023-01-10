@@ -1,445 +1,445 @@
+Año: 1928
 Name: "Janet Gaynor"
-Year: 1928
 Age: 22
 Movie: "Seventh Heaven Street Angel and Sunrise: A Song of Two Humans"
-=================
+========
+Año: 1929
 Name: "Mary Pickford"
-Year: 1929
 Age: 37
 Movie: "Coquette"
-=================
+========
+Año: 1930
 Name: "Norma Shearer"
-Year: 1930
 Age: 28
 Movie: "The Divorcee"	
-=================
+========
+Año: 1931
 Name: "Marie Dressler"
-Year: 1931
 Age: 63
 Movie: "Min and Bill"
-=================
+========
+Año: 1932
 Name: "Helen Hayes"
-Year: 1932
 Age: 32
 Movie: "The Sin of Madelon Claudet"	
-=================
+========
+Año: 1933
 Name: "Katharine Hepburn"
-Year: 1933
 Age: 26
 Movie: "Morning Glory"
-=================
+========
+Año: 1934
 Name: "Claudette Colbert"
-Year: 1934
 Age: 31
 Movie: "It Happened One Night"
-=================
+========
+Año: 1935
 Name: "Bette Davis"
-Year: 1935
 Age: 27
 Movie: "Dangerous"
-=================
+========
+Año: 1936
 Name: "Luise Rainer"
-Year: 1936
 Age: 27
 Movie: "The Great Ziegfeld"
-=================
+========
+Año: 1937
 Name: "Luise Rainer"
-Year: 1937
 Age: 28
 Movie: "The Good Earth"
-=================
+========
+Año: 1938
 Name: "Bette Davis"
-Year: 1938
 Age: 30
 Movie: "Jezebel"
-=================
+========
+Año: 1939
 Name: "Vivien Leigh"
-Year: 1939
 Age: 26
 Movie: "Gone with the Wind"
-=================
+========
+Año: 1940
 Name: "Ginger Rogers"
-Year: 1940
 Age: 29
 Movie: "Kitty Foyle"
-=================
+========
+Año: 1941
 Name: "Joan Fontaine"
-Year: 1941
 Age: 24
 Movie: "Suspicion"	
-=================
+========
+Año: 1942
 Name: "Greer Garson"
-Year: 1942
 Age: 38
 Movie: "Mrs. Miniver"
-=================
+========
+Año: 1943
 Name: "Jennifer Jones"
-Year: 1943
 Age: 25
 Movie: "The Song of Bernadette"
-=================
+========
+Año: 1944
 Name: "Ingrid Bergman"
-Year: 1944
 Age: 29
 Movie: "Gaslight"
-=================
+========
+Año: 1945
 Name: "Joan Crawford"
-Year: 1945
 Age: 40
 Movie: "Mildred Pierce"
-=================
+========
+Año: 1946
 Name: "Olivia de Havilland"
-Year: 1946
 Age: 30
 Movie: "To Each His Own"
-=================
+========
+Año: 1947
 Name: "Loretta Young"
-Year: 1947
 Age: 35
 Movie: "The Farmer's Daughter"
-=================
+========
+Año: 1948
 Name: "Jane Wyman"
-Year: 1948
 Age: 32
 Movie: "Johnny Belinda"
-=================
+========
+Año: 1949
 Name: "Olivia de Havilland"
-Year: 1949
 Age: 33
 Movie: "The Heiress"
-=================
+========
+Año: 1950
 Name: "Judy Holliday"
-Year: 1950
 Age: 29
 Movie: "Born Yesterday"
-=================
+========
+Año: 1951
 Name: "Vivien Leigh"
-Year: 1951
 Age: 38
 Movie: "A Streetcar Named Desire"
-=================
+========
+Año: 1952
 Name: "Shirley Booth"
-Year: 1952
 Age: 54
 Movie: "Come Back Little Sheba"
-=================
+========
+Año: 1953
 Name: "Audrey Hepburn"
-Year: 1953
 Age: 24
 Movie: "Roman Holiday"
-=================
+========
+Año: 1954
 Name: "Grace Kelly"
-Year: 1954
 Age: 25
 Movie: "The Country Girl"
-=================
+========
+Año: 1955
 Name: "Anna Magnani"
-Year: 1955
 Age: 48
 Movie: "The Rose Tattoo"
-=================
+========
+Año: 1956
 Name: "Ingrid Bergman"
-Year: 1956
 Age: 41
 Movie: "Anastasia"
-=================
+========
+Año: 1957
 Name: "Joanne Woodward"
-Year: 1957
 Age: 28
 Movie: "The Three Faces of Eve"
-=================
+========
+Año: 1958
 Name: "Susan Hayward"
-Year: 1958
 Age: 41
 Movie: "I Want to Live!"
-=================
+========
+Año: 1959
 Name: "Simone Signoret"
-Year: 1959
 Age: 39
 Movie: "Room at the Top"
-=================
+========
+Año: 1960
 Name: "Elizabeth Taylor"
-Year: 1960
 Age: 29
 Movie: "BUtterfield 8"
-=================
+========
+Año: 1961
 Name: "Sophia Loren"
-Year: 1961
 Age: 27
 Movie: "Two Women"
-=================
+========
+Año: 1962
 Name: "Anne Bancroft"
-Year: 1962
 Age: 31
 Movie: "The Miracle Worker"
-=================
+========
+Año: 1963
 Name: "Patricia Neal"
-Year: 1963
 Age: 31
 Movie: "Hud"
-=================
+========
+Año: 1964
 Name: "Julie Andrews"
-Year: 1964
 Age: 29
 Movie: "Mary Poppins"
-=================
+========
+Año: 1965
 Name: "Julie Christie"
-Year: 1965
 Age: 25
 Movie: "Darling"
-=================
+========
+Año: 1966
 Name: "Elizabeth Taylor"
-Year: 1966
 Age: 35
 Movie: "Who's Afraid of Virginia Woolf?"
-=================
+========
+Año: 1967
 Name: "Katharine Hepburn"
-Year: 1967
 Age: 60
 Movie: "Guess Who's Coming to Dinner"
-=================
+========
+Año: 1968
 Name: "Katharine Hepburn"
-Year: 1968
 Age: 61
 Movie: "The Lion in Winter"
-=================
+========
+Año: 1969
 Name: "Barbra Streisand"
-Year: 1969
 Age: 26
 Movie: "Funny Girl"
-=================
+========
+Año: 1970
 Name: "Maggie Smith"
-Year: 1970
 Age: 35
 Movie: "The Prime of Miss Jean Brodie"
-=================
+========
+Año: 1971
 Name: "Glenda Jackson"
-Year: 1971
 Age: 34
 Movie: "Women in Love"
-=================
+========
+Año: 1972
 Name: "Jane Fonda"
-Year: 1972
 Age: 34
 Movie: "Klute"
-=================
+========
+Año: 1973
 Name: "Liza Minnelli"
-Year: 1973
 Age: 27
 Movie: "Cabaret"
-=================
+========
+Año: 1974
 Name: "Glenda Jackson"
-Year: 1974
 Age: 37
 Movie: "A Touch of Class"
-=================
+========
+Año: 1975
 Name: "Ellen Burstyn"
-Year: 1975
 Age: 42
 Movie: "Alice Doesn't Live Here Anymore"	
-=================
+========
+Año: 1976
 Name: "Louise Fletcher"
-Year: 1976
 Age: 41
 Movie: "One Flew Over the Cuckoo's Nest"
-=================
+========
+Año: 1977
 Name: "Faye Dunaway"
-Year: 1977
 Age: 36
 Movie: "Network"
-=================
+========
+Año: 1978
 Name: "Diane Keaton"
-Year: 1978
 Age: 32
 Movie: "Annie Hall"
-=================
+========
+Año: 1979
 Name: "Jane Fonda"
-Year: 1979
 Age: 41
 Movie: "Coming Home"
-=================
+========
+Año: 1980
 Name: "Sally Field"
-Year: 1980
 Age: 33
 Movie: "Norma Rae"
-=================
+========
+Año: 1981
 Name: "Sissy Spacek"
-Year: 1981
 Age: 31
 Movie: "Coal Miner's Daughter"	
-=================
+========
+Año: 1982
 Name: "Katharine Hepburn"
-Year: 1982
 Age: 74
 Movie: "On Golden Pond"
-=================
+========
+Año: 1983
 Name: "Meryl Streep"
-Year: 1983
 Age: 33
 Movie: "Sophie's Choice"
-=================
+========
+Año: 1984
 Name: "Shirley MacLaine"
-Year: 1984
 Age: 49
 Movie: "Terms of Endearment"	
-=================
+========
+Año: 1985
 Name: "Sally Field"
-Year: 1985
 Age: 38
 Movie: "Places in the Heart"
-=================
+========
+Año: 1986
 Name: "Geraldine Page"
-Year: 1986
 Age: 61
 Movie: "The Trip to Bountiful"	
-=================
+========
+Año: 1987
 Name: "Marlee Matlin"
-Year: 1987
 Age: 21
 Movie: "Children of a Lesser God"
-=================
+========
+Año: 1988
 Name: "Cher"
-Year: 1988
 Age: 41
 Movie: "Moonstruck"
-=================
+========
+Año: 1989
 Name: "Jodie Foster"
-Year: 1989
 Age: 26
 Movie: "The Accused"
-=================
+========
+Año: 1990
 Name: "Jessica Tandy"
-Year: 1990
 Age: 80
 Movie: "Driving Miss Daisy"
-=================
+========
+Año: 1991
 Name: "Kathy Bates"
-Year: 1991
 Age: 42
 Movie: "Misery"
-=================
+========
+Año: 1992
 Name: "Jodie Foster"
-Year: 1992
 Age: 29
 Movie: "The Silence of the Lambs"
-=================
+========
+Año: 1993
 Name: "Emma Thompson"
-Year: 1993
 Age: 33
 Movie: "Howards End"
-=================
+========
+Año: 1994
 Name: "Holly Hunter"
-Year: 1994
 Age: 36
 Movie: "The Piano"
-=================
+========
+Año: 1995
 Name: "Jessica Lange"
-Year: 1995
 Age: 45
 Movie: "Blue Sky"
-=================
+========
+Año: 1996
 Name: "Susan Sarandon"
-Year: 1996
 Age: 49
 Movie: "Dead Man Walking"
-=================
+========
+Año: 1997
 Name: "Frances McDormand"
-Year: 1997
 Age: 39
 Movie: "Fargo"
-=================
+========
+Año: 1998
 Name: "Helen Hunt"
-Year: 1998
 Age: 34
 Movie: "As Good as It Gets"
-=================
+========
+Año: 1999
 Name: "Gwyneth Paltrow"
-Year: 1999
 Age: 26
 Movie: "Shakespeare in Love"
-=================
+========
+Año: 2000
 Name: "Hilary Swank"
-Year: 2000
 Age: 25
 Movie: "Boys Don't Cry"
-=================
+========
+Año: 2001
 Name: "Julia Roberts"
-Year: 2001
 Age: 33
 Movie: "Erin Brockovich"
-=================
+========
+Año: 2002
 Name: "Halle Berry"
-Year: 2002
 Age: 35
 Movie: "Monster's Ball"
-=================
+========
+Año: 2003
 Name: "Nicole Kidman"
-Year: 2003
 Age: 35
 Movie: "The Hours"
-=================
+========
+Año: 2004
 Name: "Charlize Theron"
-Year: 2004
 Age: 28
 Movie: "Monster"
-=================
+========
+Año: 2005
 Name: "Hilary Swank"
-Year: 2005
 Age: 30
 Movie: "Million Dollar Baby"
-=================
+========
+Año: 2006
 Name: "Reese Witherspoon"
-Year: 2006
 Age: 29
 Movie: "Walk the Line"
-=================
+========
+Año: 2007
 Name: "Helen Mirren"
-Year: 2007
 Age: 61
 Movie: "The Queen"
-=================
+========
+Año: 2008
 Name: "Marion Cotillard"
-Year: 2008
 Age: 32
 Movie: "La Vie en rose"
-=================
+========
+Año: 2009
 Name: "Kate Winslet"
-Year: 2009
 Age: 33
 Movie: "The Reader"
-=================
+========
+Año: 2010
 Name: "Sandra Bullock"
-Year: 2010
 Age: 45
 Movie: "The Blind Side"
-=================
+========
+Año: 2011
 Name: "Natalie Portman"
-Year: 2011
 Age: 29
 Movie: "Black Swan"
-=================
+========
+Año: 2012
 Name: "Meryl Streep"
-Year: 2012
 Age: 62
 Movie: "The Iron Lady"
-=================
+========
+Año: 2013
 Name: "Jennifer Lawrence"
-Year: 2013
 Age: 22
 Movie: "Silver Linings Playbook"
-=================
+========
+Año: 2014
 Name: "Cate Blanchett"
-Year: 2014
 Age: 44
 Movie: "Blue Jasmine"
-=================
+========
+Año: 2015
 Name: "Julianne Moore"
-Year: 2015
 Age: 54
 Movie: "Still Alice"
-=================
+========
+Año: 2016
 Name: "Brie Larson"
-Year: 2016
 Age: 26
 Movie: "Room"
-=================
+========
