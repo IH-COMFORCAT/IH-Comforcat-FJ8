@@ -1,11 +1,41 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
 
         int[] array = {1, 3, -1, 17, 8, 3};
         difference(array);
         findTwoSmallest(array);
         calculateEquation(5, 8);
+
+        Car myNewCar = new Car("Ford", "Fiesta", 1600, true, "54678JBR");
+
+        Car myOldCar = new Car("Ford", "Focus", 1200, true, "55050BVB", 45000);
+
+        Car myOtherCar = new Car("Audi", "Q3", 2000, true);
+
+        System.out.println(myOtherCar.getLicensePlate());
+
+        myOtherCar.setLicensePlate("58272KLK");
+
+        System.out.println(myOtherCar.getLicensePlate());
+
+
+        myOtherCar.moveForward();
+        myOtherCar.moveForward();
+        myOtherCar.moveForward();
+
+        System.out.println(myOtherCar.getMileage());
+        myOtherCar.moveForward(150);
+        System.out.println(myOtherCar.getMileage());
+
+        System.out.println(Car.getTotalCars());
+
+
+
+        myNewCar.setCc(-100);
+        Thread.sleep(100);
+
+        System.out.println(myNewCar.getCc());
 
     }
 
