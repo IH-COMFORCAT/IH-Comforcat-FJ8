@@ -21,6 +21,7 @@ public class Main {
 
 
 
+
         myNewOtherCar.moveForward();
         myNewOtherCar.moveForward();
         myNewOtherCar.moveForward();
@@ -37,6 +38,25 @@ public class Main {
         Thread.sleep(100);
 
         System.out.println(myNewCar.getCc());
+
+
+        System.out.println("===HERENCIA===");
+
+        SUV mySUV = new SUV("Mercerdes", "GLA", 1600, true, "324234BAC", false, false);
+
+        int[] nums = {1, 2, 3, 5, 6};
+        String[] names ={"Pepe", "Antonio", "Maria"};
+        Car[] myCars = {myNewCar, myOldCar, myNewOtherCar, mySUV};
+
+        for (Car car : myCars) {
+            System.out.println(car.getBrand() + " " + car.getModel());
+
+            if (car instanceof SUV) {
+                ((SUV) car).moveForward();
+
+
+            }
+        }
 
     }
 

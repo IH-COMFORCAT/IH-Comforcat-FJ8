@@ -20,8 +20,8 @@ public class Course {
             this.capacity = 100;
         } else {
             this.capacity = capacity;
-         */
         }
+         */
     }
 
     public int getClassId() {
