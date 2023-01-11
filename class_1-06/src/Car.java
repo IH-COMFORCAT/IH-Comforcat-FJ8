@@ -9,6 +9,10 @@ public class Car {
     private String licensePlate;
     private int mileage;
 
+    public Car() {
+
+    }
+
     public Car(String brand, String model, int cc, boolean hasAirConditioned, String licensePlate) {
         totalCars++;
         setBrand(brand);

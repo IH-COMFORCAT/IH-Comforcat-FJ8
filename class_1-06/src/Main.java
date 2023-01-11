@@ -11,22 +11,23 @@ public class Main {
 
         Car myOldCar = new Car("Ford", "Focus", 1200, true, "55050BVB", 45000);
 
-        Car myOtherCar = new Car("Audi", "Q3", 2000, true);
+        Car myNewOtherCar = new Car("Audi", "Q3", 2000, true);
 
-        System.out.println(myOtherCar.getLicensePlate());
+        System.out.println(myNewOtherCar.getLicensePlate());
 
-        myOtherCar.setLicensePlate("58272KLK");
+        myNewOtherCar.setLicensePlate("58272KLK");
 
-        System.out.println(myOtherCar.getLicensePlate());
+        System.out.println(myNewOtherCar.getLicensePlate());
 
 
-        myOtherCar.moveForward();
-        myOtherCar.moveForward();
-        myOtherCar.moveForward();
 
-        System.out.println(myOtherCar.getMileage());
-        myOtherCar.moveForward(150);
-        System.out.println(myOtherCar.getMileage());
+        myNewOtherCar.moveForward();
+        myNewOtherCar.moveForward();
+        myNewOtherCar.moveForward();
+
+        System.out.println(myNewOtherCar.getMileage());
+        myNewOtherCar.moveForward(150);
+        System.out.println(myNewOtherCar.getMileage());
 
         System.out.println(Car.getTotalCars());
 
