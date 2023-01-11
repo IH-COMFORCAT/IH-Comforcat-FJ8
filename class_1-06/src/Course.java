@@ -5,11 +5,14 @@ public class Course {
     private int capacity;
     private int studentCount;
 
-    public Course(String title, int capacity, int studentCount) {
+    private Professor mainTeacher;
+
+    public Course(String title, int capacity, int studentCount, Professor mainTeacher) {
         this.classId = counter++;
         this.title = title;
         setCapacity(capacity);
         setStudentCount(studentCount);
+        this.mainTeacher = mainTeacher;
     }
 
     private void setCapacity(int capacity) {

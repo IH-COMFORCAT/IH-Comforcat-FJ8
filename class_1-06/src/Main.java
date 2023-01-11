@@ -53,10 +53,14 @@ public class Main {
 
             if (car instanceof SUV) {
                 ((SUV) car).moveForward();
-
-
             }
         }
+
+        printArray(new int[] {1, 3, 4, 6, 8});
+
+    }
+
+    public static void printArray(int[] numbers) {
 
     }
 
