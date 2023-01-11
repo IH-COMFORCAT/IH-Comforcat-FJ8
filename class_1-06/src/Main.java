@@ -1,3 +1,5 @@
+import java.math.*;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
 
@@ -61,7 +63,12 @@ public class Main {
         double a = 0.7;
         double b = 0.2;
 
-        System.out.println(a*b);
+        System.out.println(a+b);
+
+        BigDecimal bdA = new BigDecimal(a).setScale(1, RoundingMode.HALF_EVEN);
+        BigDecimal bdB = new BigDecimal(b).setScale(1, RoundingMode.HALF_UP);
+
+        System.out.println((bdA.multiply(bdB)).divide(new BigDecimal("2")));
 
     }
 
