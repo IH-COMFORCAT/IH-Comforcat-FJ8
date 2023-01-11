@@ -46,6 +46,8 @@ public class Main {
 
         SUV mySUV = new SUV("Mercerdes", "GLA", 1600, true, "324234BAC", false, false);
 
+        System.out.println(mySUV.toString());
+
         int[] nums = {1, 2, 3, 5, 6};
         String[] names ={"Pepe", "Antonio", "Maria"};
         Car[] myCars = {myNewCar, myOldCar, myNewOtherCar, mySUV};
@@ -69,7 +71,9 @@ public class Main {
         BigDecimal bdB = new BigDecimal(b).setScale(1, RoundingMode.HALF_UP);
 
         System.out.println((bdA.multiply(bdB)).divide(new BigDecimal("2")));
-        System.out.println(performOperation(new BigDecimal("5")));       
+        System.out.println(performOperation(new BigDecimal("5")));
+
+
 
     }
 
@@ -82,6 +86,8 @@ public class Main {
     public static void printArray(int[] numbers) {
 
     }
+
+
 
     public static void calculateEquation(double x, double y) {
         double result = Math.pow(x, 2) + Math.pow(((4*y/5)-x),2);

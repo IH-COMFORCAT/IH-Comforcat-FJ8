@@ -1,4 +1,4 @@
-public class SUV extends Car{
+public class SUV extends Car {
 
     private boolean is4wd;
     private boolean hasTowCapacity;
@@ -28,8 +28,17 @@ public class SUV extends Car{
         this.hasTowCapacity = hasTowCapacity;
     }
 
+    @Override
     public void moveForward() {
         System.out.println("Avanzando en mi todoterreno");
         super.moveForward(15);
+    }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                "is4wd=" + is4wd +
+                ", hasTowCapacity=" + hasTowCapacity +
+                '}';
     }
 }

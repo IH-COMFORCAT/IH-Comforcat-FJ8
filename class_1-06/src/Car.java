@@ -108,4 +108,17 @@ public class Car {
     public static int getTotalCars() {
         return totalCars;
     }
+
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", cc=" + cc +
+                ", hasAirConditioned=" + hasAirConditioned +
+                ", licensePlate='" + licensePlate + '\'' +
+                ", mileage=" + mileage +
+                '}';
+    }
 }
