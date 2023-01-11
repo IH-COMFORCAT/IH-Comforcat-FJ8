@@ -4,7 +4,7 @@ public class PracticalCourse extends Course{
     private String[] resources;
 
     public PracticalCourse(String title, int capacity, int studentCount, String address, int numberOfTools, String[] resources) {
-        super(title, capacity, studentCount);
+        super(title, capacity, studentCount, new Professor("Jaume", 1231231.20, ""));
         this.address = address;
         this.numberOfTools = numberOfTools;
         this.resources = resources;

@@ -4,7 +4,7 @@ public class TheoreticalCourse extends Course {
     private int numberOfCredits;
 
     public TheoreticalCourse(String title, int capacity, int studentCount, int numberOfLectures, int numberOfCredits) {
-        super(title, capacity, studentCount);
+        super(title, capacity, studentCount, new Professor("Jaume", 1231231.20, ""));
         setNumberOfLectures(numberOfLectures);
         setNumberOfCredits(numberOfCredits);
     }

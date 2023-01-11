@@ -58,6 +58,11 @@ public class Main {
 
         printArray(new int[] {1, 3, 4, 6, 8});
 
+        double a = 0.7;
+        double b = 0.2;
+
+        System.out.println(a*b);
+
     }
 
     public static void printArray(int[] numbers) {
