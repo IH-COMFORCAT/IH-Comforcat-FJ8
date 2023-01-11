@@ -69,7 +69,14 @@ public class Main {
         BigDecimal bdB = new BigDecimal(b).setScale(1, RoundingMode.HALF_UP);
 
         System.out.println((bdA.multiply(bdB)).divide(new BigDecimal("2")));
+        System.out.println(performOperation(new BigDecimal("5")));       
 
+    }
+
+    public static BigDecimal performOperation(BigDecimal x) {
+        BigDecimal a = x.multiply(new BigDecimal("2.3")).add(new BigDecimal("1.5"));
+        BigDecimal b = x.subtract(new BigDecimal("0.8"));
+        return a.divide(b, 2, RoundingMode.HALF_UP);
     }
 
     public static void printArray(int[] numbers) {
