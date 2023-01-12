@@ -51,6 +51,13 @@ public class Main {
         }
         writer.close();
 
+        IOSPlayer iosPlayer = new IOSPlayer(1);
+        AndroidPlayer androidPlayer = new AndroidPlayer(100);
+
+        Playable[] playables = {iosPlayer, androidPlayer};
+
+        playables[0].playSong();
+
 
 /*
 
