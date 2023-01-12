@@ -1,3 +1,7 @@
+package past_lab;
+
+import past_lab.*;
+
 import java.math.*;
 
 public class Intern extends Employee {
@@ -29,7 +33,7 @@ public class Intern extends Employee {
 
     @Override
     public String toString() {
-        return "Intern{" +
+        return "past_lab.Intern{" +
                 "endOfContractDate='" + endOfContractDate + '\'' +
                 "} " + super.toString();
     }

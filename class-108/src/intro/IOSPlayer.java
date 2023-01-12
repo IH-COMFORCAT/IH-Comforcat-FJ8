@@ -1,4 +1,4 @@
-import java.util.*;
+package intro;
 
 public class IOSPlayer implements Playable {
     private final int MAX_VOLUME = 1;

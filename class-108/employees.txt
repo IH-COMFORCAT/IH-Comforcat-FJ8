@@ -1,100 +1,100 @@
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Marina', lastName='Lloris', department='HR', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jaume', lastName='Sánchez', department='Marketing', salary=20000}
-Employee{dni='3333W', name='Jordi', lastName='Andreu', department='IT', salary=46473.49}
-Employee{dni='6666T', name='Néstor', lastName='Schumacher', department='HR', salary=11848.24}
-Employee{dni='3333W', name='Diego', lastName='Sánchez', department='IT', salary=15584.48}
-Employee{dni='6666T', name='Diego', lastName='Schumacher', department='Legal', salary=31913.60}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Anthony', lastName='Lloris', department='HR', salary=20000}
-Employee{dni='3333W', name='Jaume', lastName='Sánchez', department='HR', salary=23583.88}
-Employee{dni='6666T', name='Marina', lastName='Lloris', department='Marketing', salary=27430.85}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Diego', lastName='Schumacher', department='IT', salary=20000}
-Employee{dni='4444X', name='Jordi', lastName='Lloris', department='Marketing', salary=15335.97}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Diego', lastName='Sánchez', department='HR', salary=20000}
-Employee{dni='6666T', name='Anthony', lastName='Lloris', department='IT', salary=15725.42}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Néstor', lastName='Sánchez', department='IT', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Marina', lastName='Sánchez', department='HR', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Anthony', lastName='Schumacher', department='Marketing', salary=16303.47}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Marina', lastName='Lloris', department='Marketing', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Anthony', lastName='Schumacher', department='HR', salary=20000}
-Employee{dni='6666T', name='Jaume', lastName='Schumacher', department='Legal', salary=10101.47}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Anthony', lastName='Andreu', department='IT', salary=20000}
-Employee{dni='8888W', name='Jaume', lastName='Andreu', department='Marketing', salary=25521.24}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Marina', lastName='Schumacher', department='IT', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Jordi', lastName='Lloris', department='HR', salary=20000}
-Employee{dni='4444X', name='Miguel', lastName='Schumacher', department='IT', salary=35731.33}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Néstor', lastName='Andreu', department='IT', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Jaume', lastName='Schumacher', department='Legal', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Marina', lastName='Sánchez', department='IT', salary=18164.39}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Jaume', lastName='Andreu', department='HR', salary=15630.19}
-Employee{dni='5555J', name='Diego', lastName='Andreu', department='HR', salary=48767.47}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Diego', lastName='Lloris', department='Legal', salary=20000}
-Employee{dni='4444X', name='Néstor', lastName='Lloris', department='IT', salary=12476.92}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Jaume', lastName='Schumacher', department='HR', salary=20000}
-Employee{dni='6666T', name='Jordi', lastName='Schumacher', department='Marketing', salary=22868.49}
-Employee{dni='3333W', name='Miguel', lastName='Lloris', department='Legal', salary=41109.07}
-Employee{dni='5555J', name='Diego', lastName='Schumacher', department='IT', salary=14861.62}
-Employee{dni='6666T', name='Jaume', lastName='Lloris', department='IT', salary=45271.42}
-Employee{dni='3333W', name='Anthony', lastName='Andreu', department='IT', salary=40104.28}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Anthony', lastName='Andreu', department='Marketing', salary=16631.58}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jordi', lastName='Lloris', department='HR', salary=13849.80}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Marina', lastName='Lloris', department='Marketing', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Anthony', lastName='Schumacher', department='Marketing', salary=20000}
-Employee{dni='5555J', name='Anthony', lastName='Lloris', department='Marketing', salary=16821.90}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Diego', lastName='Lloris', department='Legal', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Diego', lastName='Sánchez', department='HR', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Miguel', lastName='Lloris', department='Marketing', salary=11683.79}
-Employee{dni='5555J', name='Miguel', lastName='Andreu', department='Legal', salary=33181.03}
-Employee{dni='3333W', name='Marina', lastName='Lloris', department='Legal', salary=24177.62}
-Employee{dni='4444X', name='Diego', lastName='Schumacher', department='IT', salary=23399.30}
-Employee{dni='5555J', name='Néstor', lastName='Schumacher', department='Legal', salary=28850.70}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Jaume', lastName='Andreu', department='Legal', salary=12419.59}
-Employee{dni='3333W', name='Jordi', lastName='Schumacher', department='Marketing', salary=20091.97}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Diego', lastName='Lloris', department='IT', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Jordi', lastName='Schumacher', department='IT', salary=20000}
-Employee{dni='8888W', name='Anthony', lastName='Lloris', department='IT', salary=37528.51}
-Employee{dni='5555J', name='Jaume', lastName='Lloris', department='Marketing', salary=39285.66}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Marina', lastName='Schumacher', department='IT', salary=14228.71}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Diego', lastName='Lloris', department='Marketing', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Néstor', lastName='Lloris', department='HR', salary=20000}
-Employee{dni='3333W', name='Jaume', lastName='Andreu', department='Marketing', salary=38548.42}
-Employee{dni='6666T', name='Jordi', lastName='Lloris', department='HR', salary=45172.54}
-Employee{dni='5555J', name='Diego', lastName='Andreu', department='HR', salary=11283.35}
-Employee{dni='6666T', name='Anthony', lastName='Andreu', department='Legal', salary=25451.56}
-Employee{dni='3333W', name='Jaume', lastName='Andreu', department='HR', salary=37127.31}
-Employee{dni='5555J', name='Diego', lastName='Sánchez', department='Legal', salary=49342.75}
-Employee{dni='4444X', name='Diego', lastName='Andreu', department='HR', salary=29215.93}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Diego', lastName='Sánchez', department='Marketing', salary=20000}
-Employee{dni='4444X', name='Jaume', lastName='Schumacher', department='HR', salary=12286.64}
-Employee{dni='4444X', name='Anthony', lastName='Andreu', department='IT', salary=22621.62}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Anthony', lastName='Schumacher', department='HR', salary=14557.46}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jordi', lastName='Lloris', department='Marketing', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='6666T', name='Diego', lastName='Andreu', department='Marketing', salary=20000}
-Employee{dni='3333W', name='Marina', lastName='Andreu', department='Marketing', salary=19995.69}
-Employee{dni='8888W', name='Diego', lastName='Lloris', department='Marketing', salary=36574.83}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='5555J', name='Marina', lastName='Sánchez', department='Marketing', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Miguel', lastName='Schumacher', department='HR', salary=14942.82}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Diego', lastName='Andreu', department='Legal', salary=20000}
-Employee{dni='4444X', name='Anthony', lastName='Schumacher', department='IT', salary=17776.84}
-Employee{dni='3333W', name='Jordi', lastName='Lloris', department='IT', salary=33600.04}
-Employee{dni='6666T', name='Diego', lastName='Lloris', department='Legal', salary=10618.27}
-Employee{dni='5555J', name='Jordi', lastName='Lloris', department='Marketing', salary=49952.93}
-Employee{dni='5555J', name='Néstor', lastName='Lloris', department='Legal', salary=42153.24}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Anthony', lastName='Andreu', department='HR', salary=16664.65}
-Employee{dni='6666T', name='Miguel', lastName='Lloris', department='HR', salary=37949.35}
-Employee{dni='8888W', name='Néstor', lastName='Andreu', department='IT', salary=11968.58}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Néstor', lastName='Schumacher', department='HR', salary=19134.90}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='8888W', name='Jordi', lastName='Andreu', department='Legal', salary=20000}
-Employee{dni='3333W', name='Jordi', lastName='Lloris', department='HR', salary=11392.26}
-Employee{dni='6666T', name='Marina', lastName='Lloris', department='Marketing', salary=11206.30}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jordi', lastName='Sánchez', department='Legal', salary=20000}
-Employee{dni='8888W', name='Jordi', lastName='Schumacher', department='Legal', salary=22566.59}
-Employee{dni='6666T', name='Néstor', lastName='Schumacher', department='IT', salary=46240.07}
-Employee{dni='5555J', name='Marina', lastName='Schumacher', department='Marketing', salary=10954.70}
-Employee{dni='5555J', name='Jaume', lastName='Andreu', department='Legal', salary=15899.27}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jordi', lastName='Schumacher', department='Legal', salary=20000}
-Employee{dni='4444X', name='Diego', lastName='Andreu', department='HR', salary=46083.59}
-Employee{dni='5555J', name='Néstor', lastName='Sánchez', department='Marketing', salary=40642.67}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Néstor', lastName='Andreu', department='Legal', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='3333W', name='Miguel', lastName='Sánchez', department='Legal', salary=20000}
-Intern{endOfContractDate='13/01/2024'} Employee{dni='4444X', name='Jordi', lastName='Andreu', department='Marketing', salary=20000}
-Employee{dni='4444X', name='Marina', lastName='Lloris', department='Marketing', salary=23689.14}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Jordi', lastName='Sánchez', department='Legal', salary=20000}
+past_lab.Employee{dni='6666T', name='Miguel', lastName='Sánchez', department='IT', salary=27289.36}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Néstor', lastName='Schumacher', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Jaume', lastName='Lloris', department='Marketing', salary=20000}
+past_lab.Employee{dni='3333W', name='Jaume', lastName='Schumacher', department='Marketing', salary=19420.09}
+past_lab.Employee{dni='5555J', name='Anthony', lastName='Schumacher', department='HR', salary=37762.33}
+past_lab.Employee{dni='8888W', name='Jordi', lastName='Andreu', department='Legal', salary=45448.11}
+past_lab.Employee{dni='3333W', name='Diego', lastName='Schumacher', department='Legal', salary=13341.84}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Diego', lastName='Lloris', department='Legal', salary=12294.63}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Marina', lastName='Sánchez', department='IT', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Jaume', lastName='Schumacher', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Anthony', lastName='Lloris', department='IT', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Marina', lastName='Schumacher', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jaume', lastName='Schumacher', department='IT', salary=20000}
+past_lab.Employee{dni='8888W', name='Marina', lastName='Andreu', department='IT', salary=49743.30}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Marina', lastName='Andreu', department='HR', salary=14950.21}
+past_lab.Employee{dni='5555J', name='Marina', lastName='Lloris', department='IT', salary=19372.74}
+past_lab.Employee{dni='6666T', name='Diego', lastName='Sánchez', department='HR', salary=17838.29}
+past_lab.Employee{dni='4444X', name='Néstor', lastName='Sánchez', department='Marketing', salary=24176.01}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jordi', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Employee{dni='8888W', name='Marina', lastName='Andreu', department='IT', salary=10362.41}
+past_lab.Employee{dni='4444X', name='Miguel', lastName='Andreu', department='Marketing', salary=25937.73}
+past_lab.Employee{dni='8888W', name='Jaume', lastName='Lloris', department='HR', salary=47108.53}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Miguel', lastName='Schumacher', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Anthony', lastName='Andreu', department='Legal', salary=10795.82}
+past_lab.Employee{dni='5555J', name='Jordi', lastName='Lloris', department='Legal', salary=48365.61}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Marina', lastName='Schumacher', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Miguel', lastName='Sánchez', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Jaume', lastName='Lloris', department='IT', salary=20000}
+past_lab.Employee{dni='8888W', name='Jordi', lastName='Andreu', department='Marketing', salary=24523.44}
+past_lab.Employee{dni='3333W', name='Jordi', lastName='Schumacher', department='Marketing', salary=48175.93}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Néstor', lastName='Andreu', department='HR', salary=20000}
+past_lab.Employee{dni='4444X', name='Miguel', lastName='Andreu', department='Legal', salary=25580.80}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Anthony', lastName='Sánchez', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Jaume', lastName='Schumacher', department='IT', salary=18140.11}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Miguel', lastName='Schumacher', department='IT', salary=18555.90}
+past_lab.Employee{dni='4444X', name='Jaume', lastName='Andreu', department='Marketing', salary=45322.54}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Diego', lastName='Schumacher', department='HR', salary=20000}
+past_lab.Employee{dni='3333W', name='Anthony', lastName='Lloris', department='Legal', salary=35409.94}
+past_lab.Employee{dni='4444X', name='Diego', lastName='Andreu', department='IT', salary=15021.97}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Diego', lastName='Sánchez', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Jordi', lastName='Sánchez', department='IT', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Jordi', lastName='Sánchez', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Diego', lastName='Schumacher', department='Marketing', salary=20000}
+past_lab.Employee{dni='3333W', name='Néstor', lastName='Sánchez', department='Legal', salary=11112.04}
+past_lab.Employee{dni='6666T', name='Diego', lastName='Lloris', department='HR', salary=24263.15}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Néstor', lastName='Sánchez', department='IT', salary=13833.16}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Marina', lastName='Lloris', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Marina', lastName='Lloris', department='IT', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Marina', lastName='Schumacher', department='Legal', salary=11757.90}
+past_lab.Employee{dni='8888W', name='Jordi', lastName='Schumacher', department='HR', salary=24695.65}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Anthony', lastName='Andreu', department='IT', salary=20000}
+past_lab.Employee{dni='6666T', name='Jaume', lastName='Sánchez', department='Legal', salary=36248.90}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Anthony', lastName='Schumacher', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Miguel', lastName='Sánchez', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Miguel', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Diego', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Employee{dni='6666T', name='Jordi', lastName='Andreu', department='IT', salary=48521.65}
+past_lab.Employee{dni='5555J', name='Marina', lastName='Sánchez', department='HR', salary=32706.22}
+past_lab.Employee{dni='6666T', name='Jaume', lastName='Schumacher', department='HR', salary=12734.84}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Miguel', lastName='Schumacher', department='IT', salary=15541.23}
+past_lab.Employee{dni='4444X', name='Jaume', lastName='Sánchez', department='IT', salary=42957.07}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Jaume', lastName='Lloris', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Miguel', lastName='Andreu', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Miguel', lastName='Schumacher', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Marina', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Employee{dni='6666T', name='Marina', lastName='Lloris', department='Legal', salary=40788.12}
+past_lab.Employee{dni='5555J', name='Miguel', lastName='Sánchez', department='HR', salary=24279.77}
+past_lab.Employee{dni='4444X', name='Anthony', lastName='Andreu', department='HR', salary=41791.75}
+past_lab.Employee{dni='8888W', name='Miguel', lastName='Andreu', department='IT', salary=22343.76}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jaume', lastName='Sánchez', department='HR', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='8888W', name='Néstor', lastName='Lloris', department='Marketing', salary=19099.37}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jordi', lastName='Lloris', department='Marketing', salary=10275.94}
+past_lab.Employee{dni='4444X', name='Jaume', lastName='Sánchez', department='IT', salary=47998.53}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Jordi', lastName='Schumacher', department='IT', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Néstor', lastName='Lloris', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jaume', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Diego', lastName='Andreu', department='Legal', salary=20000}
+past_lab.Employee{dni='6666T', name='Jaume', lastName='Schumacher', department='IT', salary=37895.04}
+past_lab.Employee{dni='8888W', name='Jordi', lastName='Andreu', department='Marketing', salary=39716.53}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Néstor', lastName='Sánchez', department='IT', salary=20000}
+past_lab.Employee{dni='6666T', name='Miguel', lastName='Andreu', department='HR', salary=15691.08}
+past_lab.Employee{dni='6666T', name='Miguel', lastName='Sánchez', department='HR', salary=49502.64}
+past_lab.Employee{dni='6666T', name='Miguel', lastName='Schumacher', department='HR', salary=48862.56}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Diego', lastName='Schumacher', department='Legal', salary=20000}
+past_lab.Employee{dni='8888W', name='Miguel', lastName='Andreu', department='Legal', salary=16866.57}
+past_lab.Employee{dni='6666T', name='Miguel', lastName='Lloris', department='Marketing', salary=46112.42}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='3333W', name='Jordi', lastName='Sánchez', department='Legal', salary=20000}
+past_lab.Employee{dni='6666T', name='Jordi', lastName='Lloris', department='Marketing', salary=30737.53}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='4444X', name='Diego', lastName='Andreu', department='HR', salary=20000}
+past_lab.Employee{dni='3333W', name='Diego', lastName='Schumacher', department='Legal', salary=16010.99}
+past_lab.Employee{dni='6666T', name='Jordi', lastName='Sánchez', department='HR', salary=13775.15}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Anthony', lastName='Sánchez', department='Marketing', salary=20000}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='5555J', name='Jordi', lastName='Lloris', department='Legal', salary=20000}
+past_lab.Employee{dni='3333W', name='Anthony', lastName='Lloris', department='Marketing', salary=30377.98}
+past_lab.Employee{dni='6666T', name='Jaume', lastName='Sánchez', department='HR', salary=12419.17}
+past_lab.Employee{dni='5555J', name='Jordi', lastName='Andreu', department='Legal', salary=34712.56}
+past_lab.Employee{dni='5555J', name='Miguel', lastName='Schumacher', department='HR', salary=31158.62}
+past_lab.Intern{endOfContractDate='13/01/2024'} past_lab.Employee{dni='6666T', name='Marina', lastName='Schumacher', department='Legal', salary=12574.29}
+past_lab.Employee{dni='5555J', name='Marina', lastName='Schumacher', department='Legal', salary=26265.51}

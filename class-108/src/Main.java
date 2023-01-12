@@ -1,3 +1,7 @@
+import exercise.*;
+import intro.*;
+import past_lab.*;
+
 import java.io.*;
 import java.math.*;
 import java.util.*;
@@ -57,6 +61,31 @@ public class Main {
         Playable[] playables = {iosPlayer, androidPlayer};
 
         playables[0].playSong();
+
+        List<String> strings = new ArrayList<>();
+
+        strings.add("Coche");
+        strings.add("Nave espacial");
+        System.out.println(strings.get(0));
+        strings.remove(0);
+
+        Account seller = new Account("Alejandro", "C/ironhack 19", "DEBIT-0001", new BigDecimal("20000"));
+
+        Account buyer = new Account("Jaume", "C/ironhack 21", "DEBIT-0002", new BigDecimal("10000"));
+
+        Transaction transaction = new Transaction(seller, buyer, new BigDecimal("5000"));
+
+        PaymentList paymentList = new PaymentList();
+
+        paymentList.addTransaction(transaction);
+
+        for (Transaction t : paymentList.getAllTransactions()) {
+            System.out.println(t.getDate());
+        }
+
+
+
+
 
 
 /*

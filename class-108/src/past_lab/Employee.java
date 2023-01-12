@@ -1,3 +1,5 @@
+package past_lab;
+
 import java.math.*;
 
 public class Employee {
@@ -65,7 +67,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "past_lab.Employee{" +
                 "dni='" + dni + '\'' +
                 ", name='" + name + '\'' +
                 ", lastName='" + lastName + '\'' +
