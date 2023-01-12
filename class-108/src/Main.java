@@ -1,9 +1,13 @@
+import abstract_classes.*;
 import exercise.*;
 import intro.*;
 import past_lab.*;
 
 import java.io.*;
 import java.math.*;
+import java.text.*;
+import java.time.*;
+import java.time.format.*;
 import java.util.*;
 
 public class Main {
@@ -79,17 +83,26 @@ public class Main {
 
         paymentList.addTransaction(transaction);
 
+
         for (Transaction t : paymentList.getAllTransactions()) {
+            t.getBuyerAccount().getAccountNumber();
             System.out.println(t.getDate());
         }
 
+        LocalDate dates = LocalDate.of(2023, 01, 11);
+        System.out.println(dates);
 
 
+        Bat bat = new Bat(LocalDate.now(), "Murci", 20.0);
+
+        bat.fly(50);
+
+        List<Animal> animals = new ArrayList<>();
+        animals.add(bat);
 
 
 
 /*
-
         for (int i = 0; i < 10; i++) {
             Random random = new Random();
             System.out.println("Número random: " + random.nextInt(5));
