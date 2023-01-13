@@ -13,6 +13,8 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws IOException {
 
+        /*
+
         BigDecimal a = new BigDecimal("10");
         BigDecimal b = new BigDecimal("5");
 
@@ -102,7 +104,7 @@ public class Main {
 
 
 
-/*
+
         for (int i = 0; i < 10; i++) {
             Random random = new Random();
             System.out.println("Número random: " + random.nextInt(5));
@@ -111,5 +113,34 @@ public class Main {
  */
 
 
+        int[] numbers = {-5, 6, 2, 1, 7, 10};
+        System.out.println(Arrays.toString(balancer(numbers, 100)));
+
+
     }
+
+    public static int[] balancer(int[] array, int target) {
+
+        int sum = 0;
+
+        for (int i : array) {
+            sum+=i;
+        }
+
+        while (sum < target) {
+            int position = 0;
+            //int minValue = Integer.MAX_VALUE;
+            for (int i = 0; i < array.length; i++) {
+                if (array[i] < array[position]){
+                    //minValue = array[i];
+                    position = i;
+                }
+            }
+            array[position]++;
+            sum++;
+        }
+
+        return array;
+    }
+
 }

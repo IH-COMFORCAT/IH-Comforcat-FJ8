@@ -7,7 +7,7 @@ import java.time.*;
 public class Bat extends Mammal implements CanFly {
 
     private double height;
-    
+
     public Bat(LocalDate dateOfBirth, String name, double height) {
         super(dateOfBirth, name);
         this.height = height;
