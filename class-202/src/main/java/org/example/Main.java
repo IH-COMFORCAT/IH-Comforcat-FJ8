@@ -54,7 +54,18 @@ public class Main {
         }
 
 
+        File invoices = new File("invoices.json");
+        Scanner invoicesReader = new Scanner(invoices);
+        List<Invoice> invoicesJavaObjects = new ArrayList<>();
 
+        while (invoicesReader.hasNextLine()) {
+            Invoice invoice = gson.fromJson(invoicesReader.nextLine(),Invoice.class);
+            invoicesJavaObjects.add(invoice);
+        }
+
+        System.out.println(invoicesJavaObjects.get(0).getInvoiceItems().get(0).getName());
+
+        System.out.println(MathLibrary.sum(2, 4));
 
 
     }
