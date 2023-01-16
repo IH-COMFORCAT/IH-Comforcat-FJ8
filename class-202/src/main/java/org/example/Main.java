@@ -2,16 +2,32 @@ package org.example;
 
 import com.google.gson.*;
 
-public class Main {
-    public static void main(String[] args) {
+import java.io.*;
+import java.util.*;
 
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        // Creamos un objeto en java y lo convertimos a json
         Driver driver = new Driver("Anthony", 30, new Car("Ford", "Fiesta"));
 
         Gson gson = new Gson();
 
         System.out.println(gson.toJson(driver));
 
-        String json = "{\"name\":\"Anthony\",\"age\":30,\"car\":{\"brand\":\"Ford\",\"model\":\"Fiesta\"}}";
+
+        /*
+        {
+        "name" : "Estel,
+        "age": 25,
+        "car": {
+            "brand": "Audi",
+            "model": "Q3"
+            }
+         }
+         */
+
+        String json = "{\"name\":\"Estel\",\"age\":25,\"car\":{\"brand\":\"Audi\",\"model\":\"Q3\"}}";
 
         Driver driver2 = gson.fromJson(json, Driver.class);
 
@@ -20,6 +36,23 @@ public class Main {
         String data = "\"Hola\"";
         // "Hola"
         System.out.println(data);
+
+        FileWriter writer = new FileWriter("drivers.json");
+        writer.write(json);
+        writer.close();
+
+        File file = new File("drivers.json");
+
+        Scanner reader = new Scanner(file);
+
+        while (reader.hasNextLine()) {
+            String line = reader.nextLine();
+            Driver newDriver = gson.fromJson(line, Driver.class);
+            System.out.println(newDriver.getName());
+            System.out.println(newDriver.getAge());
+
+        }
+
 
 
 
