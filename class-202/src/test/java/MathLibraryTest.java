@@ -6,8 +6,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MathLibraryTest {
 
+
+
+
     @Test
     public void shouldSum_twoPositiveNumbers() {
+
         assertEquals(6, MathLibrary.sum(2, 4));
         assertEquals(50, MathLibrary.sum(25, 25));
     }
