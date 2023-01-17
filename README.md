@@ -4,9 +4,10 @@
 
 - Enlace de zoom: https://ironhack.zoom.us/j/8737820374
 
-| Date       | Topic                  | Link                                                         |
-| ---------- | ---------------------- | ------------------------------------------------------------ |
-| 11/01/2023 | Classes and BigDecimal | - https://ironhack.zoom.us/rec/share/1QK7yGnKU6Gs4wGIuMY9t-p3Wfjr5m8DSaea31KFOnn5GJcfTIdjpjn_VOx1fnf1.pd8RulZooJAXRIPZ <br />- https://ironhack.zoom.us/rec/share/AOan2kReqQZlbHDaOYvyQ0-uJhkrpV1NwHQ3z9NSfnP7O6tqN4V7YyvGzt0X2Jdr.XaBrDu_1TwKnSzxk |
-|            |                        |                                                              |
-|            |                        |                                                              |
+| Date       | Topic                              | Link                                                         |
+| ---------- | ---------------------------------- | ------------------------------------------------------------ |
+| 11/01/2023 | Classes and BigDecimal             | - https://ironhack.zoom.us/rec/share/1QK7yGnKU6Gs4wGIuMY9t-p3Wfjr5m8DSaea31KFOnn5GJcfTIdjpjn_VOx1fnf1.pd8RulZooJAXRIPZ <br />- https://ironhack.zoom.us/rec/share/AOan2kReqQZlbHDaOYvyQ0-uJhkrpV1NwHQ3z9NSfnP7O6tqN4V7YyvGzt0X2Jdr.XaBrDu_1TwKnSzxk |
+| 12/01/2023 | Interfaces y clases abstractas     | https://ironhack.zoom.us/rec/share/BAVM7Ob3hKkZdk55Bq5Tc1jxP0jIIpTjR1IN6JXn5Pj5yfPuGr9hH-iEPcyYWMMi.QfsNJx3msUUcVt3u |
+| 13/01/2023 | Repaso                             | https://ironhack.zoom.us/rec/share/yU76dd2KTYpnYeuk8k8H99t9kYkcVDgCoZWd8t3f9bccDYfUda0yLk0n7ymvxzeD.aq7zsIJWv82v58h8 |
+| 16/01/2023 | JSON, Maven y introducción a tests | https://ironhack.zoom.us/rec/share/Baio04jJgWBk4v2caopzWA5SXP3D2prKvqs3Yb_c_9naRE-ABH-EBBtQ569LP9F7.jtB2CZhgpXheOHG6 |
 
