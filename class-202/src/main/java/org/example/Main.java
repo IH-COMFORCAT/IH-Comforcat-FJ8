@@ -8,6 +8,15 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws IOException {
 
+
+
+        ArrayList<Integer> nums = new ArrayList<>();
+        for (int i = 0; i < 10; i++) {
+            nums.add(i);
+            System.out.println("Añadido el número: " + i);
+
+        }
+
         // Creamos un objeto en java y lo convertimos a json
         Driver driver = new Driver("Anthony", 30, new Car("Ford", "Fiesta"));
 
