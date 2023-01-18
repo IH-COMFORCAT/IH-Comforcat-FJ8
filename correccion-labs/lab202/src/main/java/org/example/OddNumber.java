@@ -1,6 +1,7 @@
 package org.example;
 
 public class OddNumber {
+
     public static int[] createArray(int num) {
         if(num <= 0) return new int[0];
         int[] arrayResult;

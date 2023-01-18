@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 public class ForbiddenWords {
 
+
+
     /// Método con dos loops
     public static boolean findForbiddenWord(String input) {
         String [] forbiddenWords = new String[]{ "abstract", "assert", "boolean",
@@ -43,6 +45,8 @@ public class ForbiddenWords {
 
         return false;
     }
+
+
 
     // Método con stream
 
