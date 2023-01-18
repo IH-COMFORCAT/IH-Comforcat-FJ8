@@ -10,4 +10,5 @@
 | 12/01/2023 | Interfaces y clases abstractas     | https://ironhack.zoom.us/rec/share/BAVM7Ob3hKkZdk55Bq5Tc1jxP0jIIpTjR1IN6JXn5Pj5yfPuGr9hH-iEPcyYWMMi.QfsNJx3msUUcVt3u |
 | 13/01/2023 | Repaso                             | https://ironhack.zoom.us/rec/share/yU76dd2KTYpnYeuk8k8H99t9kYkcVDgCoZWd8t3f9bccDYfUda0yLk0n7ymvxzeD.aq7zsIJWv82v58h8 |
 | 16/01/2023 | JSON, Maven y introducción a tests | https://ironhack.zoom.us/rec/share/Baio04jJgWBk4v2caopzWA5SXP3D2prKvqs3Yb_c_9naRE-ABH-EBBtQ569LP9F7.jtB2CZhgpXheOHG6 |
+| 17/01/2023 | Exception handling y testing       | https://ironhack.zoom.us/rec/share/5An8FJV214bv3AyQROBVILGwOAXXX9tjla0lX1zcIUZRiyqzuekkbIHhjsWGVETM.DNKzlbY0MLMWDGZV |
 
