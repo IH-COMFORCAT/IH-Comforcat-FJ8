@@ -14,6 +14,9 @@ public class Main {
 
         System.out.println(System.identityHashCode(person));
         System.out.println(System.identityHashCode(person2));
+
+        Employee newEmployee = new Employee("Manuel", "18/01/1995", Department.MARKETING);
+        newEmployee.setContractType(ContractType.REMOTE);
 /*
 
         try {
