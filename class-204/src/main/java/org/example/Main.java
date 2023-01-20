@@ -8,6 +8,14 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
+        Car car1 = new Car("Ford", "Fiesta", 1000, "8765JBR");
+        Car car2 = new Car("Ford", "Fiesta", 1000, "34328ZZZ");
+
+        System.out.println(car1.equals(car2));
+        System.out.println(car1.hashCode());
+        System.out.println(car2.hashCode());
+
+
         /*
 
         Scanner input = new Scanner(System.in);
