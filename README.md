@@ -13,5 +13,6 @@
 | 17/01/2023 | Exception handling y testing       | https://ironhack.zoom.us/rec/share/5An8FJV214bv3AyQROBVILGwOAXXX9tjla0lX1zcIUZRiyqzuekkbIHhjsWGVETM.DNKzlbY0MLMWDGZV |
 | 18/01/2023 | Hashmaps, enums y diagramas        | https://ironhack.zoom.us/rec/share/BhK1xO8ERI3zefkzsHwswSdd7c7ZVNkKQY2jCjKkGX0uIkf3o5bMvC8ruO6wYDYY.kFDdZYH-43e3ZhKJ |
 | 20/01/2023 | Review                             | https://ironhack.zoom.us/rec/share/a7uEn5-QwHYfY_O7u6Kzs0lxRnTYL1dVrkwoxLHYCpyB1bPrnEhby2nRPU9SgdQ.dQp3cX4wJf1zCylw |
-| 23/01/203  | Intro to MySQL                     | https://ironhack.zoom.us/rec/share/h_UvAwmRXp4ww1qeVlHhF4TFtFykgj8BKorrfXkmQj4hfUn5UadqB0JIgKW18tqw.8j-KtcUyNJDRKxZK |
+| 23/01/2023 | Intro to MySQL                     | https://ironhack.zoom.us/rec/share/h_UvAwmRXp4ww1qeVlHhF4TFtFykgj8BKorrfXkmQj4hfUn5UadqB0JIgKW18tqw.8j-KtcUyNJDRKxZK |
+| 24/01/2023 | Intro to Spring Boot               | https://ironhack.zoom.us/rec/share/h6ECSvWRpKgn6OeHTJQDqOC_k0J0fRbE2cy8u8_F3p01o2m9JgV_k5CFVEACJbWk.eF6dheTdlyTbnQ56 |
 
