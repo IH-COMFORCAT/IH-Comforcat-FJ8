@@ -82,6 +82,9 @@ public class FlightTest {
         assertEquals("Boeing 747", flightRepository.findAverageByAircraft().get(1)[0]);
         assertEquals(4333.3333, flightRepository.findAverageByAircraft().get(0)[1]);
 
+        assertEquals(6000l, flightRepository.findMaxByAircraft().get(0)[1]);
+
+
 
         flightRepository.deleteAll();
     }

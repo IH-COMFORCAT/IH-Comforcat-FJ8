@@ -16,4 +16,17 @@ public interface FlightRepository extends JpaRepository<Flight, String> {
     // select aircraft, AVG(mileage) from flight group by aircraft;
     @Query("SELECT aircraft, avg(mileage) from Flight group by aircraft")
     List<Object[]> findAverageByAircraft();
+
+    @Query("SELECT aircraft, max(mileage) from Flight group by aircraft")
+    List<Object[]> findMaxByAircraft();
+
+    /*
+    Search on google binding parameters jpql
+    @Query "SELECT aircraft, avg(mileage) from Flight where aircraft = ¿? group by aircraft" -> aircraft
+    something findAverageByAircraft(String aircraft)
+     */
+
+
+
+
 }
