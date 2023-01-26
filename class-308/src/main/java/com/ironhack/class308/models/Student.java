@@ -2,6 +2,8 @@ package com.ironhack.class308.models;
 
 import jakarta.persistence.*;
 
+import java.util.*;
+
 @Entity
 public class Student {
 
@@ -13,6 +15,13 @@ public class Student {
     @OneToOne
     @JoinColumn(name = "house_assignment_id")
     private HouseAssignment houseAssignment;
+    @ManyToMany
+            @JoinTable(
+                    name = "student_spells",
+                    joinColumns = @JoinColumn(name = "student_id"),
+                    inverseJoinColumns = @JoinColumn(name = "spell_id")
+            )
+    List<Spell> spells = new ArrayList<>();
 
     public Student(String firstName, String lastName, HouseAssignment houseAssignment) {
         this.firstName = firstName;

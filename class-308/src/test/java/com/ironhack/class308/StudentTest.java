@@ -26,4 +26,6 @@ public class StudentTest {
         Assertions.assertEquals(146, studentRepository.findAll().get(0).getHouseAssignment().getAssignedBed());
 
     }
+
+
 }
