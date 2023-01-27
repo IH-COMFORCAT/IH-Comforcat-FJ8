@@ -17,4 +17,5 @@
 | 24/01/2023 | Intro to Spring Boot               | https://ironhack.zoom.us/rec/share/h6ECSvWRpKgn6OeHTJQDqOC_k0J0fRbE2cy8u8_F3p01o2m9JgV_k5CFVEACJbWk.eF6dheTdlyTbnQ56 |
 | 25/01/2023 | Inheritance JPA                    | https://ironhack.zoom.us/rec/share/B2HGQI0oPLN-dXjMzvRdmd3cIJvubX-TjxNiGpJpnfZMdYgJGnnwO1ht-fGDViYx.3hVRPgvecj2OpPa1 |
 | 26/01/2023 | One to One, Many to One            | https://ironhack.zoom.us/rec/share/JPNSE7O9RJSdB85vC3ZvPDzm2rgJAWAlPcImomcHJ_A0CHEa-tOGcvjUybKrri_m.GnHX3zEi0Q4OlZP3 |
+| 27/01/2023 | Repaso                             | https://ironhack.zoom.us/rec/share/uRcYVds1WXvJqIZMYlyDAaDCdZKpu22gmkPQzGqhPejL8bSbXPLx_WYkeoJe6crN.7BEmnMOqMUXn4Yjk |
 
