@@ -20,4 +20,22 @@ public class NurseService {
     public Nurse createNurse(Nurse nurse) {
         return nurseRepository.save(nurse);
     }
+
+    public void updateNurse(Long id, Nurse nurse) {
+        Nurse nurseFromDB = nurseRepository.findById(id).get();
+        nurseFromDB.setName(nurse.getName());
+        nurseFromDB.setSurname(nurse.getSurname());
+        nurseRepository.save(nurseFromDB);
+    }
+
+    public void updateNurseName(Long id, String name) {
+        Nurse nurseFromDB = nurseRepository.findById(id).get();
+        nurseFromDB.setName(name);
+        nurseRepository.save(nurseFromDB);
+
+    }
+
+    public void delete(Long id) {
+        nurseRepository.deleteById(id);
+    }
 }

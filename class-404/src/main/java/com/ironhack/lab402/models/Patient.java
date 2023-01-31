@@ -1,10 +1,12 @@
 package com.ironhack.lab402.models;
 
 import jakarta.persistence.*;
+import org.hibernate.annotations.*;
 
 import java.time.LocalDate;
 
 @Entity
+@DynamicUpdate
 public class Patient {
 
     @Id

@@ -27,4 +27,22 @@ public class NurseController {
 
     }
 
+    @PutMapping("/nurses/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void updateNurse(@PathVariable Long id, @RequestBody Nurse nurse) {
+        nurseService.updateNurse(id, nurse);
+    }
+
+    @PatchMapping("nurses/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void updateName(@PathVariable Long id, @RequestParam String name) {
+        nurseService.updateNurseName(id, name);
+    }
+
+    @DeleteMapping("/nurses/delete/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void deleteNurse(@PathVariable Long id) {
+        nurseService.delete(id);
+    }
+
 }

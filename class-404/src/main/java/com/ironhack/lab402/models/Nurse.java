@@ -2,8 +2,10 @@ package com.ironhack.lab402.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
+import org.hibernate.annotations.*;
 
 @Entity
+@DynamicUpdate
 public class Nurse {
 
     @Id
