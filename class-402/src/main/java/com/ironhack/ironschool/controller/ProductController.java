@@ -45,4 +45,7 @@ public class ProductController {
     List<Product> findByCategoryAndDepartment(@RequestParam Optional<String> category, @RequestParam Optional<String> department) {
         return productService.findByCategoryAndDepartment(category, department);
     }
+
+
+
 }

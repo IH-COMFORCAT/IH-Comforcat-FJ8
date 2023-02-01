@@ -1,10 +1,9 @@
-package com.ironhack.ironschool.models;
+package com.ironhack.class406.models;
 
-import com.ironhack.ironschool.*;
+import com.ironhack.class406.enums.*;
 import jakarta.persistence.*;
 
 import java.math.*;
-
 @Entity
 public class Product {
     @Id
