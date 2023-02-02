@@ -19,4 +19,6 @@
 | 26/01/2023 | One to One, Many to One            | https://ironhack.zoom.us/rec/share/JPNSE7O9RJSdB85vC3ZvPDzm2rgJAWAlPcImomcHJ_A0CHEa-tOGcvjUybKrri_m.GnHX3zEi0Q4OlZP3 |
 | 27/01/2023 | Repaso                             | https://ironhack.zoom.us/rec/share/uRcYVds1WXvJqIZMYlyDAaDCdZKpu22gmkPQzGqhPejL8bSbXPLx_WYkeoJe6crN.7BEmnMOqMUXn4Yjk |
 | 30/01/2023 | The controller Layer               | https://ironhack.zoom.us/rec/share/aumuJ41noJeTEfBeuskTBTcUdgUmMY1-VhWaMRV49XCzVSBjBdU55lkg-ucxomCu.pLCZont7oTfAFzgg |
+| 31/01/2023 | The controller Layer II            | https://ironhack.zoom.us/rec/share/Jw_bR8MXsTUpWmoVDd1qYhbogFvIv5TTeRqnJ3DQgnGgDPd4TFsN-X1krDfHi55G.eztgAoTb41rFKTzP |
+| 01/02/2023 | Exceptions and Error handling      | https://ironhack.zoom.us/rec/share/ul1ycgKGfmoMAnrm5-LZ07qCGUfsF9ySWMZpcbCjMOK8JkXel-nVoKr57JgVaFfi.0NKYQbtrLvZMdoUk |
 
