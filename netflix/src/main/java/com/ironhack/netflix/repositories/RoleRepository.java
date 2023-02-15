@@ -4,9 +4,10 @@ import com.ironhack.netflix.models.*;
 import org.springframework.data.jpa.repository.*;
 import org.springframework.stereotype.*;
 
+import java.util.*;
+
 @Repository
-public interface AccountRepository extends JpaRepository<Account, Long> {
+public interface RoleRepository extends JpaRepository<Role, Long> {
 
-    Account findByEmail(String email);
-
+    Optional<Role> findByName(String name);
 }

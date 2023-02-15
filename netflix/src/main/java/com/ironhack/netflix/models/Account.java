@@ -5,9 +5,12 @@ import lombok.*;
 
 import java.util.*;
 
+import static jakarta.persistence.FetchType.EAGER;
+
 @Entity
 @Getter
 @Setter
+@Data
 @NoArgsConstructor
 public class Account {
     @Id
@@ -15,11 +18,15 @@ public class Account {
     private Long id;
     private String email;
     private String password;
+
     @ManyToOne
     @JoinColumn(name = "plan_id")
     private Plan plan;
     @OneToMany(mappedBy = "account", fetch = FetchType.EAGER)
     private List<User> users = new ArrayList<>();
+
+    @ManyToMany(fetch = EAGER)
+    private Collection<Role> roles = new ArrayList<>();
 
     public Account(String email, String password, Plan plan) {
         this.email = email;
@@ -31,3 +38,4 @@ public class Account {
         this.users.add(user);
     }
 }
+
