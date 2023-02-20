@@ -23,4 +23,5 @@
 | 01/02/2023 | Exceptions and Error handling      | https://ironhack.zoom.us/rec/share/ul1ycgKGfmoMAnrm5-LZ07qCGUfsF9ySWMZpcbCjMOK8JkXel-nVoKr57JgVaFfi.0NKYQbtrLvZMdoUk |
 | 02/02/2023 | Security                           | https://ironhack.zoom.us/rec/share/Fg2q04c1SzsCZ-7Jb3azqnr4qoJSkvMmNsckLKQ94FnZ9jQ0Hyt2pNyE17fsirKy.1Za80dIs3hboL-Ml |
 | 03/02/2023 | Repaso                             | https://ironhack.zoom.us/rec/share/M6IlUCNQQMNOf19X8Fo0F7pmnD4vxqLJdsaZ8Q1gdtdj0Rhbk13x9N1BaPab0YyH.qLKFB5gfqUe5W40c |
+| 20/02/2023 | Intro to ts and angular            | https://ironhack.zoom.us/rec/share/lF6Zd1qG0hZKxS2s3n2mAXH9eq0J-KvRSboqVs69LHSvYqagVUqGZS-qI2aJqg3r.lZ-jpDZaUYT3zb_l |
 
