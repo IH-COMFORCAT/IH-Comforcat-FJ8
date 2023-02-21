@@ -1,0 +1,19 @@
+<h1 [ngStyle]="{'color': getColor()}">{{webpageName}}</h1>
+<input type="text" [placeholder]="placeholder" [(ngModel)]="input" (keyup)="checkIfTextTooBig()">
+<p [ngStyle]="{'font-size.px': fontSize}">{{input}}</p>
+<button (click)="changeSize('+')">+</button>
+<button (click)="changeSize('-')">-</button>
+<p *ngIf="fontSize > 30">Cuidado! Tu texto es mayor que 30 px!!</p>
+<p *ngIf="input.length > 7">Cuidado! Tu texto tiene más de 7 caracteres!</p>
+
+
+
+<!--
+     
+    <h2>Titulo pequeño</h2>
+    <h3>Titulo más pequeño</h3>
+    <p>Esto es un párrafo</p>
+    <div>
+        <p>Esto es un párrafo dentro de un div</p>
+    </div>
+-->
