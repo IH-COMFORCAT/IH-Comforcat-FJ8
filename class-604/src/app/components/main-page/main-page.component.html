@@ -1,0 +1,13 @@
+<h1>{{storeName}}</h1>
+<h2>Hoy es {{formattedDate}}, bienvenidos a mi página web</h2>
+
+<p [ngStyle]="{'background-color': getColor()}" (copy)="onCopy('enable')" >Copy me to enable this button</p>
+<p (copy)="onCopy('disable')" >Copy me to disable this button</p>
+
+<button (click)="alertMe()">Show Alert</button>
+
+<p >{{input}}</p>
+
+<p *ngIf="input.length == 0">Por favor, añade algo de texto en el placeholder</p>
+<input type="text" [placeholder]="inputPlaceholder" [(ngModel)]="input">
+<button [disabled]="isDisabled" (click)="alertInnerText()">Haz click aqui</button>
