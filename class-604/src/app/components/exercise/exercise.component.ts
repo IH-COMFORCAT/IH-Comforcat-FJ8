@@ -11,13 +11,15 @@ export class ExerciseComponent implements OnInit {
   input: string;
   placeholder: string;
   fontSize: number;
+  shoppingList: string[];
 
   constructor() {
     this.webpageName = "Ironhack's website";
     this.input = "";
     this.placeholder = "Introduce el texto";
     this.fontSize = 16;
-   }
+    this.shoppingList = ['Milk', 'Sugar', 'Potatoes'];
+  }
 
   ngOnInit(): void {
   }
@@ -26,7 +28,7 @@ export class ExerciseComponent implements OnInit {
     console.log(this.input);
   }
 
-  getUserName():void {
+  getUserName(): void {
     console.log("Hola");
   }
 
@@ -34,12 +36,12 @@ export class ExerciseComponent implements OnInit {
     this.fontSize += 2;
   }
 
-  decreaseSize():void {
-    if (this.fontSize > 0)this.fontSize -=2;
+  decreaseSize(): void {
+    if (this.fontSize > 0) this.fontSize -= 2;
   }
 
-  changeSize(value: string) :void {
-    if(value == '+') {
+  changeSize(value: string): void {
+    if (value == '+') {
       this.fontSize += 2;
     } else {
       if (this.fontSize > 0) this.fontSize -= 2;
@@ -48,7 +50,7 @@ export class ExerciseComponent implements OnInit {
 
   checkIfTextTooBig() {
 
-    if(this.input.length > 15) {
+    if (this.input.length > 15) {
       alert("Cuidado, tu texto tiene más de 15 caracteres");
     } else {
       console.log(this.input.length);
@@ -56,14 +58,18 @@ export class ExerciseComponent implements OnInit {
 
   }
 
-  getColor():string {
-    if(this.input.length < 5) {
-      return "green";
-    } else if(this.input.length < 10) {
-      return "yellow";
+  getColor(): string {
+    if (this.input.length < 5) {
+      return "#F45B69";
+    } else if (this.input.length < 10) {
+      return "#586A6A";
     } else {
-      return "red";
+      return "#2BD9FE";
+    }
   }
+
+  addElementToShoppingList() {
+    this.shoppingList.push(this.input);
   }
 
 }

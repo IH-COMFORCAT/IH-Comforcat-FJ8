@@ -3,8 +3,22 @@
 <p [ngStyle]="{'font-size.px': fontSize}">{{input}}</p>
 <button (click)="changeSize('+')">+</button>
 <button (click)="changeSize('-')">-</button>
+<button (click)="addElementToShoppingList()">Add to shopping list</button>
 <p *ngIf="fontSize > 30">Cuidado! Tu texto es mayor que 30 px!!</p>
 <p *ngIf="input.length > 7">Cuidado! Tu texto tiene más de 7 caracteres!</p>
+
+<ul>
+    <!-- JAVA: for(String item : shoppingList)-->
+    <li *ngFor="let item of shoppingList; let i = index">{{i+1}}. {{item}}</li>
+</ul>
+
+
+<div style="background-color: aquamarine;" *ngFor="let item of shoppingList">
+
+    <h2>{{item}}</h2>
+    <button>Delete Item</button>
+
+</div>
 
 
 
