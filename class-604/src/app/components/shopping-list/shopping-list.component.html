@@ -1,0 +1,13 @@
+<h1>Mi lista de la compra</h1>
+<input type="text" [(ngModel)]="input" (keydown.enter)="addToShoppingList()">
+<button (click)="addToShoppingList()">Añadir a la lista</button>
+
+<ul>
+    <li [ngClass]="getStyle(i)" *ngFor="let item of shoppingElements; let i = index">
+
+        {{i+1}}. {{item}}
+        <button (click)="deleteItem(i)" >Borrar</button>
+
+    </li>
+</ul>
+
