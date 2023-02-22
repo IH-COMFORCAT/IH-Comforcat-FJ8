@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Fan } from 'src/app/models/fan';
+import { RandomUserService } from 'src/app/services/random-user.service';
 
 @Component({
   selector: 'app-fan-list',
@@ -9,14 +10,14 @@ import { Fan } from 'src/app/models/fan';
 export class FanListComponent implements OnInit {
 
   fanName: string;
-  fanAge!:number;
+  fanAge!: number;
   fanCountry: string;
   fanTeam: string;
 
   madridFanList: Fan[];
   barcelonaFanList: Fan[];
 
-  constructor() {
+  constructor(private randomUserService: RandomUserService) {
 
     this.fanName = '';
     ;
@@ -26,7 +27,7 @@ export class FanListComponent implements OnInit {
     this.madridFanList = [];
     this.barcelonaFanList = [];
 
-   }
+  }
 
   ngOnInit(): void {
     this.madridFanList.push(new Fan("John Doe", 30, "United States"));
@@ -55,7 +56,7 @@ export class FanListComponent implements OnInit {
 
 
 
-  changeTeam(index:number, team:string):void {
+  changeTeam(index: number, team: string): void {
 
     if (team == 'madrid') {
       this.barcelonaFanList.push(this.madridFanList[index]);
@@ -66,12 +67,32 @@ export class FanListComponent implements OnInit {
     }
   }
 
-  deleteFan(index:number, team:string): void {
+  deleteFan(index: number, team: string): void {
     if (team == 'madrid') {
       this.madridFanList.splice(index, 1);
     } else {
       this.barcelonaFanList.splice(index, 1);
     }
+  }
+
+  addRandomFan(): void {
+
+    this.randomUserService.getRandomUser().subscribe(result => {
+
+      let name : string = result.results[0].name.first + " " + result.results[0].name.last;
+
+      let fan: Fan = new Fan(name, result.results[0].dob.age, result.results[0].location.country, result.results[0].picture.medium);
+
+      let supportsAGoodTeam = Boolean(Math.round(Math.random()));
+
+      if (supportsAGoodTeam) {
+        this.barcelonaFanList.push(fan);
+      }else {
+        this.madridFanList.push(fan);
+      }
+
+    });
+
   }
 
 }

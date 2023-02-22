@@ -9,6 +9,7 @@
         <option value="madrid">Real Madrid</option>
     </select>
     <button (click)="addFan()">Añadir Fan</button>
+    <button (click)="addRandomFan()">Añadir fan aleatorio</button>
 </div>
 
 
@@ -16,12 +17,12 @@
 
     <div class="fan-list">
         <h2>Barcelona Fans</h2>
-        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'barcelona')"  *ngFor="let fan of barcelonaFanList; let i = index"></app-fan-card>
+        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'barcelona')" (teamChanged)="changeTeam($event, 'barcelona')"  *ngFor="let fan of barcelonaFanList; let i = index"></app-fan-card>
     </div>
 
     <div class="fan-list">
         <h2>Real Madrid Fans</h2>
-        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'madrid')" *ngFor="let fan of madridFanList; let i = index"></app-fan-card>
+        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'madrid')" (teamChanged)="changeTeam($event, 'madrid')" *ngFor="let fan of madridFanList; let i = index"></app-fan-card>
 
     </div>
 
