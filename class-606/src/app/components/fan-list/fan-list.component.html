@@ -1,0 +1,28 @@
+<h1>Our fan list!</h1>
+
+<div class="form-wrapper">
+    <input type="text" placeholder="Name" [(ngModel)]="fanName">
+    <input type="number" placeholder="Age" [(ngModel)]="fanAge">
+    <input type="text" placeholder="Country" [(ngModel)]="fanCountry">
+    <select name="team" [(ngModel)]="fanTeam">
+        <option value="barcelona">FC Barcelona</option>
+        <option value="madrid">Real Madrid</option>
+    </select>
+    <button (click)="addFan()">Añadir Fan</button>
+</div>
+
+
+<div class="fan-wrapper">
+
+    <div class="fan-list">
+        <h2>Barcelona Fans</h2>
+        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'barcelona')"  *ngFor="let fan of barcelonaFanList; let i = index"></app-fan-card>
+    </div>
+
+    <div class="fan-list">
+        <h2>Real Madrid Fans</h2>
+        <app-fan-card [fan]="fan" [fanIndex]="i" (fanDeleted)="deleteFan($event, 'madrid')" *ngFor="let fan of madridFanList; let i = index"></app-fan-card>
+
+    </div>
+
+</div>

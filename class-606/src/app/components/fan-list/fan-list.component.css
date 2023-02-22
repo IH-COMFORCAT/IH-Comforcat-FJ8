@@ -1,0 +1,14 @@
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.fan-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+

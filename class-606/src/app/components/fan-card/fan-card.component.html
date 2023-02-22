@@ -1,0 +1,14 @@
+<div class="fan" [ngClass]="getFanClass()">
+
+    <div class="fan-name">
+        <h3>{{fan.name}}</h3>
+    </div>
+    <div class="fan-info">
+        <p>Age: {{fan.age}}</p>
+        <p>Country: {{fan.country}}</p>
+    </div>
+    <div>
+        <button (click)="changeTeam()">Change Team</button>
+        <button (click)="deleteFan()">Delete Fan</button>
+    </div>
+</div>

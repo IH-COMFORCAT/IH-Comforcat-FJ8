@@ -34,5 +34,4 @@ export class ShoppingListComponent implements OnInit {
       return "odd";
     }
   }
-
 }
