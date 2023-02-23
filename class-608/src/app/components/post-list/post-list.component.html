@@ -1,0 +1,9 @@
+
+<h2>My latests posts</h2>
+
+<ul>
+    <li *ngFor="let post of posts; let i = index"><a (click)="navigateToRoute(i)">{{post.title}}</a></li>
+</ul>
+
+
+
